@@ -40,4 +40,18 @@
             android:layout_weight="1"
             android:text="@string/button_true" />
     </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/clue_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Podpowiedź" />
+    </LinearLayout>
+
 </LinearLayout>
