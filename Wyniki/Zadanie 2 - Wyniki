@@ -1,0 +1,39 @@
+Po pierwszym uruchomienu:
+2022-10-17 18:25:18.970 6293-6293/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onCreate()
+2022-10-17 18:25:19.179 6293-6293/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onResume()
+
+Po kliknięciu cofnij:
+2022-10-17 18:27:45.310 6293-6293/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onPause()
+2022-10-17 18:27:45.806 6293-6293/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onStop()
+
+Po ponownym uruchomienu aplikacji:
+2022-10-17 18:28:56.266 6467-6467/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onCreate()
+2022-10-17 18:28:56.373 6467-6467/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onResume()
+
+Po wciśnięciu przycisku ekranu głównego Home:
+2022-10-17 18:29:37.044 6467-6467/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onPause()
+2022-10-17 18:29:37.540 6467-6467/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onStop()
+
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji:
+2022-10-17 18:30:06.564 6467-6467/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onResume()
+
+
+Po zmianie orientacji:
+2022-10-17 18:32:56.483 6467-6467/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onPause()
+2022-10-17 18:32:56.485 6467-6467/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onStop()
+2022-10-17 18:32:56.486 6467-6467/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onDestroy()
+2022-10-17 18:32:56.557 6467-6467/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onCreate()
+2022-10-17 18:32:56.591 6467-6467/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onResume()
+
+Po obróceniu ekranu wyświetla się pierwsze pytanie.
+
+
+Zad13
+2022-10-17 18:54:02.369 7416-7416/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onPause()
+2022-10-17 18:54:02.375 7416-7416/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onStop()
+2022-10-17 18:54:02.379 7416-7416/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onSaveInstanceState()
+2022-10-17 18:54:02.380 7416-7416/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onDestroy()
+2022-10-17 18:54:02.448 7416-7416/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onCreate()
+2022-10-17 18:54:02.490 7416-7416/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onResume()
+
+Po obróceniu ekranu wyświetla się poprzednio wyświetlone pytanie.
